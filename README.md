@@ -45,8 +45,30 @@ Um estudante de desenvolvimento web, focado em criar interfaces modernas e funci
 
 ---
 
-## 📬 Despertei seu interesse? Entre em contato e vamos fazer uma conexão!
+## 🤝 Despertei seu interesse? Entre em contato e vamos fazer uma conexão!
 
-* **LinkedIn:** [Gustavo Alves](https://www.linkedin.com/in/gustavo-alves-r2026/?utm_source=share_via&utm_content=profile&utm_medium=android)
-* **E-mail:** guh0908@gmail.com
+<table border="0">
+  <tr>
+   
+   <td width="50%" align="center" valign="top">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e9/512.webp" width="60" alt="Carta Voando">
+      <br />
+      <h3><strong>LinkedIn</strong></h3>
+      <p>Envie uma "carta de conexão" corporativa e vamos expandir nossa rede!</p>
+      <a href="https://www.linkedin.com/in/gustavo-alves-r2026/?utm_source=share_via&utm_content=profile&utm_medium=android">
+        <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      </a>
+    </td>
 
+   
+  <td width="50%" align="center" valign="top">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f1/512.webp" width="60" alt="Celular">
+      <br />
+      <h3><strong>E-mail</strong></h3>
+      <p>Mande um ping direto no meu celular. Respondo rapidinho!</p>
+      <a href="mailto:guh0908@gmail.com">
+        <img src="https://img.shields.io/badge/Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
