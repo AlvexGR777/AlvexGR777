@@ -1,8 +1,8 @@
 ### 📊 Status do Player
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlvexGR777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvexGR777&layout=compact&theme=tokyonight" />
 </div>
 
 ### Quem seria esse tal de Gustavo?
@@ -10,7 +10,6 @@ Um estudante de desenvolvimento web, focado em criar interfaces modernas e funci
 
 ---
 
-## 🛠️ Hard Skills
 ### 🛠️ Hard Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
