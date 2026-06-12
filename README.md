@@ -2,7 +2,8 @@
   <img src="https://github.com/AlvexGR777/AlvexGR777/blob/main/capa%20github.png" alt="Gustavo Alves - Desenvolvedor" width="100%">
 </div>
 
-### 📊 Status do Player - Quer ver meu "Score" de conhecimentos? ewntão segue abaixo!
+
+### 📊 Status do Player - Quer ver meu "Score" de conhecimentos? então segue abaixo!
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlvexGR777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
