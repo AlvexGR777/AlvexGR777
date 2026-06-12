@@ -20,11 +20,11 @@ Um estudante de desenvolvimento web, focado em criar interfaces modernas e funci
 
 
 ## 🧠 Soft Skills
-  Comunicativo
+💬 Comunicativo
 🤝 Colaboração em equipe
 🎯 Pensamento Crítico
 🧠 Adaptabilidade
-   Empatia
+🫶 Empatia
 
 
 ---
