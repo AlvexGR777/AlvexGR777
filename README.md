@@ -50,7 +50,7 @@ Um estudante de desenvolvimento web, focado em criar interfaces modernas e funci
 <table border="0">
   <tr>
    
-   <td width="70%" align="center" valign="top">
+   <td width="50%"height="50% align="center" valign="top">
       <img src="https://github.com/AlvexGR777/AlvexGR777/blob/main/img%20carta%20de%20%20cntt.png " width="60" alt="Carta Voando">
       <br />
       <h3><strong>LinkedIn</strong></h3>
@@ -61,7 +61,7 @@ Um estudante de desenvolvimento web, focado em criar interfaces modernas e funci
     </td>
 
    
-  <td width="70%" align="center" valign="top">
+  <td width="50%" height="50% align="center" valign="top">
       <img src="https://github.com/AlvexGR777/AlvexGR777/blob/main/img%20carta%20de%20%20cntt.png" width="60" alt="Celular">
       <br />
       <h3><strong>E-mail</strong></h3>
