@@ -51,7 +51,7 @@ Um estudante de desenvolvimento web, focado em criar interfaces modernas e funci
   <tr>
    
    <td width="50%" align="center" valign="top">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e9/512.webp" width="60" alt="Carta Voando">
+      <img src=" " width="60" alt="Carta Voando">
       <br />
       <h3><strong>LinkedIn</strong></h3>
       <p>Envie uma "carta de conexão" corporativa e vamos expandir nossa rede!</p>
